@@ -1,0 +1,30 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "NamasteReact",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahesh0111m/NamasteReact.git"
+  },
+  "keywords": [
+    "React.js"
+  ],
+  "author": "Mahesh M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mahesh0111m/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/Mahesh0111m/NamasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
